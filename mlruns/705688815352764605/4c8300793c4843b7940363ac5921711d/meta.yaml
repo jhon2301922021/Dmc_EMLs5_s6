@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/705688815352764605/4c8300793c4843b7940363ac5921711d/artifacts
+end_time: 1729040051272
+entry_point_name: ''
+experiment_id: '705688815352764605'
+lifecycle_stage: active
+run_id: 4c8300793c4843b7940363ac5921711d
+run_name: Session Initialized e121
+run_uuid: 4c8300793c4843b7940363ac5921711d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729039652244
+status: 3
+tags: []
+user_id: jhonefrainpomarosles

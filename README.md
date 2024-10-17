@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Dmc_EMLs5_s6
 
 API de Predicción de Alquiler con FastAPI y MLflow
@@ -27,6 +27,7 @@ Uvicorn
 Estructura del Proyecto
 bash
 Copiar código
+
 /app
 │   ├── app.py                  # Archivo principal de la API
 │   ├── requirements.txt         # Dependencias del proyecto

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dmc_EMLs5_s6
 
 API de Predicción de Alquiler con FastAPI y MLflow
